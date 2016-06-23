@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>uMov.me White-label Usage Sample</title>
+	<link rel="stylesheet" type="text/css" href="http://center.umov.me/CenterWeb/whiteLabel.css" />
+	<--link rel="stylesheet" type="text/css" href="http://{environment}.umov.me/CenterWeb/whiteLabel.css" /-->
+</head>
+
+<style>
+.header {
+	padding: .5em;
+}
+.box {
+	font-weight: bold;
+	display: inline-block;
+	padding: .5em;
+	width: 200px;
+	height: 50px;
+	vertical-align: middle;
+}
+.logo {
+	background-repeat: no-repeat;
+	background-size: 100%;	
+}
+.border {
+	border-width: 1px;
+	border-style: solid;
+}
+</style>
+
+<body class="wl">
+	<header class="header wl-header-color">
+		<div class="box logo wl-logo"></div>
+		<div class="box wl-header-font">Text over header</div>
+	</header>
+	<section>
+		<h1 class="box wl-font">Font color</h1>
+		<div class="box wl-color">Background color</div>
+		<div class="box border wl-border">Border color</div>
+	</section>
+</body>
+
+</html>
