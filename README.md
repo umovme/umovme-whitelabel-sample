@@ -69,3 +69,7 @@ Exemplo demonstra como utilizar o uMov.me white-label em aplicações externas.
 	Define a propriedade `border-color` com a cor do ambiente
 
 	* *Exemplo: Bordas dos campos no sistema*
+
+### Exemplo de uso
+
+Você pode visualizar o exemplo de uso em código [aqui](https://github.com/umovme/umovme-whitelabel-sample/blob/master/index.html) e online [aqui](http://umovme.github.io/umovme-whitelabel-sample).
