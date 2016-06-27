@@ -72,4 +72,4 @@ Exemplo demonstra como utilizar o uMov.me white-label em aplicações externas.
 
 ### Exemplo de uso
 
-Você pode visualizar o exemplo de uso em código [aqui](https://github.com/umovme/umovme-whitelabel-sample/blob/master/index.html) e online [aqui](http://umovme.github.io/umovme-whitelabel-sample).
+Você pode visualizar o exemplo de uso em código [aqui](https://github.com/umovme/umovme-whitelabel-sample/blob/gh-pages/index.html) e online [aqui](http://umovme.github.io/umovme-whitelabel-sample).
