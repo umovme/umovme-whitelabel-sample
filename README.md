@@ -2,7 +2,7 @@
 
 Exemplo demonstra como utilizar o uMov.me white-label em aplicações externas.
 
-### Como utilizando o white-label do uMov.me
+### Como utilizar o white-label do uMov.me
 
 * **Importar arquivo css do white-label**
 
