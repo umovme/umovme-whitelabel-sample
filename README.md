@@ -2,6 +2,7 @@
 
 Exemplo demonstra como utilizar o uMov.me white-label em aplicações externas.
 
+
 ### Como utilizar o white-label do uMov.me
 
 * **Importar arquivo css do white-label**
@@ -11,6 +12,10 @@ Exemplo demonstra como utilizar o uMov.me white-label em aplicações externas.
 * **Utilizar as classes de estilo disponíveis para que aplique corretamente os as definições de white-label**
 
 *A folha de estilos do white-label aplicará apenas cores aos elementos, fica a encargo da apliação externa definir estilo adicionais para que elementos tenham borda, tamanho e alinhamento adequados do padrão visual.*
+
+### Exemplo de uso
+
+Você pode visualizar o exemplo de uso em código [aqui](https://github.com/umovme/umovme-whitelabel-sample/blob/gh-pages/index.html) e online [aqui](http://umovme.github.io/umovme-whitelabel-sample).
 
 ### Classes de estilo
 
@@ -69,7 +74,3 @@ Exemplo demonstra como utilizar o uMov.me white-label em aplicações externas.
 	Define a propriedade `border-color` com a cor do ambiente
 
 	* *Exemplo: Bordas dos campos no sistema*
-
-### Exemplo de uso
-
-Você pode visualizar o exemplo de uso em código [aqui](https://github.com/umovme/umovme-whitelabel-sample/blob/gh-pages/index.html) e online [aqui](http://umovme.github.io/umovme-whitelabel-sample).
